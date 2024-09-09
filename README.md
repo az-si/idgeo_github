@@ -1,4 +1,4 @@
-![logo git](https://raw.githubusercontent.com/az-si/idgeo_github/main/imgs/git.png  =x100)
+![logo git](https://raw.githubusercontent.com/az-si/idgeo_github/main/imgs/git.png 100x)
 ![logo git](imgs/idjo.jpg =200x)
 # Initiation [Git](https://github.com/) par la pratique 
 
