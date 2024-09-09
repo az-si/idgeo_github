@@ -1,6 +1,6 @@
 ![logo git](./imgs/git.png =100x)![logo git](./imgs/idjo.jpg =200x)
 # Initiation [Git](https://github.com/) par la pratique 
-
+by Thomas Michel
 ## Table des matières 
 ### Objectifs 
 * GIT Introduction 
