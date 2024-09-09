@@ -1,5 +1,5 @@
-![logo git](./imgs/git.png =100x)
-![logo git](./imgs/idjo.jpg =200x)
+![logo git](imgs/git.png =100x)
+![logo git](imgs/idjo.jpg =200x)
 # Initiation [Git](https://github.com/) par la pratique 
 
 ## Table des matières 
