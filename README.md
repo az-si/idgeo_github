@@ -1,4 +1,4 @@
-![logo git](https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png =100x)! [logo git](https://media.licdn.com/dms/image/D5622AQGCDQm9mtoGDw/feedshare-shrink_2048_1536/0/1723021973060?e=2147483647&v=beta&t=TWP3qr9i9hiyo6RFJieEyob_GNp-AGBxTpnJ6sLh9tA =200x)
+![logo git](./imgs/git.png =100x)![logo git](./imgs/idjo.jpg =200x)
 # Initiation [Git](https://github.com/) par la pratique 
 
 ## Table des matières 
