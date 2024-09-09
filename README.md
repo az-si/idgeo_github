@@ -1,5 +1,5 @@
-![logo git](https://raw.githubusercontent.com/az-si/idgeo_github/main/imgs/git.png 100x)
-![logo git](imgs/idjo.jpg =200x)
+![logo git](https://raw.githubusercontent.com/az-si/idgeo_github/main/imgs/git.png)
+![logo git](imgs/idjo.jpg)
 # Initiation [Git](https://github.com/) par la pratique 
 
 ## Table des matières 
